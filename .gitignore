@@ -1,0 +1,5 @@
+env
+assets/*
+cookies.txt
+EXTENDED_EDIT.wav
+!assets/README.md
