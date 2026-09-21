@@ -1,5 +1,6 @@
 env
 assets/*
 cookies.txt
-EXTENDED_EDIT.wav
+*.wav
+__pycache__
 !assets/README.md
